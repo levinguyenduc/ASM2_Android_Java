@@ -6,7 +6,7 @@ This is a personal project to learn about Android mobile application development
 MFManager (My Financial Manager)
 
 ## Project duration
-Mar 1st, 2018 - Apr 8th, 2018.
+Jul 8th, 2024 - Aug 8th, 2024.
 
 ## Framework and language
 Android Studio + Java + SQLite
